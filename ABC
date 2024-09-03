@@ -1,0 +1,23 @@
+M:4/4
+L:1/4
+Q:1/4=110
+K:Cm
+
+V:1 clef=treble name="Guitar" snm="GT"
+| "Cm" C'2 E'2 | G'2 G'2 | C'2 E'2 | G'2 G'2 |  % Intro with Guitar, building tension
+| "Cm" z2 E'2 | G'2 G'2 | z2 z2 | z2 z2 |  % Rest to introduce percussion slowly
+
+V:2 clef=treble name="Sitar" snm="ST"
+| "Cm" C2 E2 | G2 G2 | C2 E2 | G2 G2 |  % Sitar matching guitar's intensity
+| "Cm" C2 E2 | G2 G2 | C2 E2 | G2 G2 |  % Building up, mimicking a Raga Bhairav pattern
+
+V:3 clef=bass name="Bass Guitar" snm="BG"
+| "Cm" G,,2 G,,2 | G,,2 G,,2 | G,,2 G,,2 | G,,2 G,,2 |  % Bass joins in with a deep, steady rhythm
+| "Cm" z2 G,,2 | G,,2 G,,2 | z2 G,,2 | G,,2 G,,2 |  % Pauses for drum fill
+
+V:4 clef=perc name="Drums" snm="DR"
+| z4 | z4 | [Bd]2 z2 | [Bd]2 z2 |  % Drums start simple, getting ready to explode
+| z4 | [Bd]2 z2 | [Bd]2 z2 | [Bd]2 z2 |  % Introduce kick and snare gradually
+
+|: "Cm" C'2 E'2 | G'2 G'2 | C'2 E'2 | G'2 G'2 |  % Chorus, with full band, energetic, powerful
+| "Cm" C'2 E'2 | G'2 G'2 | C'2 E'2 | G'2 G'2 :| % Repeat chorus pattern, building climax
